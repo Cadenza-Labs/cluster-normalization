@@ -1,0 +1,15 @@
+,value
+acc_lg,0.6775
+acc_lg_bs,0.46
+acc_crc_burns,0.5275000000000001
+acc_crc_bs_burns,1.0
+acc_crc_cluster,0.505
+acc_crc_bs_cluster,0.8075
+ccs_burns sent_accs (mean),0.5324999999999999
+ccs_burns sent_accs (std),1.1102230246251565e-16
+ccs_burns bs_accs (mean),0.5
+ccs_burns bs_accs (std),0.0
+ccs_cluster sent_accs (mean),0.5138499999999999
+ccs_cluster sent_accs (std),0.013939243164533724
+ccs_cluster bs_accs (mean),0.80375
+ccs_cluster bs_accs (std),0.19430533317436247
